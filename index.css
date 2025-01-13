@@ -306,7 +306,7 @@ content-para::before{
 /*responsive design*/
     
 
-@media screen and (max-width:736px){
+@media screen and (max-width:1096px){
 
 .desk-container{ 
     display :flex;
@@ -331,9 +331,8 @@ content-para::before{
 
 }
 
-
-@media screen and (max-width:350px){
-
+@media only screen and (max-width:360px) {
+    
 body.menu-bar .desk-site::before{
     content:"";
     position:fixed;
