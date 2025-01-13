@@ -332,7 +332,7 @@ content-para::before{
 }
 
 
-@media screen and (max-width:380px){
+@media screen and (max-width:350px){
 
 body.menu-bar .desk-site::before{
     content:"";
