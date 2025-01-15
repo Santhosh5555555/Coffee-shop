@@ -304,32 +304,6 @@ content-para::before{
 }
 
 /*responsive design*/
-    
-
-@media screen and (max-width:1096px){
-
-.desk-container{ 
-    display :flex;
-    padding:3px;
-    }
-.desk-container .desk-title .desk-subtitle h1{
-     font-size:24px;
-     font-weight:bold;
-     
- }
-.desk-menu .desk-list{
-     gap:2px;
-     font-size:18px;
-     padding:0;
- }
-.desk-menu .desk-list .menu-list .menu-link:hover{
-    border-bottom:3px solid white ;
-    font-size:19px;
-    font-weight:700;
-}
-
-
-}
 
 @media only screen and (max-width:360px) {
     
