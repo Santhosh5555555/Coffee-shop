@@ -305,7 +305,7 @@ content-para::before{
 
 /*responsive design*/
 
-@media only screen and (max-width:360px) {
+@media screen and (max-width:360px) {
     
 body.menu-bar .desk-site::before{
     content:"";
